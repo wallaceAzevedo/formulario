@@ -1,0 +1,398 @@
+ #azul {
+       border: none;
+       background-color:#fff;
+       height: 60px;
+       position: fixed;
+       box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+       z-index: 1;
+             
+     }
+     #vermelho {
+      background-color:#fff;
+      height: 690px;
+
+     }
+     #rosa{
+      background-color:#fff;
+      height: 690px;
+     }
+     #cinza{
+      background-color:#fff;
+      height: 650px;
+
+     }
+     
+     #verde {
+      background-color: #fff;
+      height: 650px;
+
+           }
+     
+     #laranja{
+      background-color: #fff;
+      height: 600px;
+
+     }
+     #roxo{
+      background-color: #fff;
+      height: 600px;
+
+     }
+     #marrom{
+      background-color:#fff;
+      height: 600px;
+
+     }
+     #preto{
+      background-color:#fff;
+      height: 600px;
+     }
+     #ouro{ 
+      height: 265px;
+      background-color: #edf2f7;
+     }
+     
+     
+    
+     
+     #topo {
+          position: fixed;
+          left: 63%;
+          top: 3%;
+        }
+        #topo2 {
+          position: fixed;
+          left: 68%;
+          top:3%;
+        }
+
+        #topo3 {
+          position: fixed;
+          left: 74.5%;
+          top:3%;
+        }
+         #topo4 {
+          position: fixed;
+          left: 80%;
+          top:2%;
+          border-radius: 35px;
+        }
+        p#pMenu {
+            font-family: 'Spartan', sans-serif;
+            font-size: clamp(0.1em, 0.3em + 0.8vw, 1.25em);
+            text-decoration: none;
+            color: gray;
+
+       }
+       img#bandeira {
+        position: absolute;
+        top: 15px;
+        left: 92%;
+        width: 33px;
+        height: 33px;
+         }
+
+        img#logocabecalho {
+        position: fixed;
+        top:-4%;
+        left: 4.5%;
+        width: 120px;
+        height: 120px;
+        
+        }
+     
+     #artigo1 {
+            position: absolute;
+            height: 60%;
+            background-color:#fff;
+            left: 10%;
+            top: 31%;
+             
+          }
+     
+     .btn1 {
+                position: absolute;
+                font-family: arial;
+                font-size: 15px;
+                border: none;
+                cursor: pointer;
+                border-radius: 20px; 
+                height: 35px;
+                width:155px;
+                left: 37%;
+              }
+
+      #imagem{
+            position: absolute;
+            top:18%;
+            left: 5%;
+              
+           }  
+      #sumiu {
+        
+            display: none;
+                  
+      } 
+
+       
+   
+   #cinzaImg{
+          position: absolute;
+            min-width: 90%;
+            height: 650px;
+            background-color:#fff;
+            left: 5%;
+            top: -3%;
+            border-radius: 15%;
+            box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); 
+   }
+   #cinzaImagem1{
+      position: absolute;
+      left: 10%; 
+   }
+   #textoImagem{
+    position: absolute;
+    height: 35%;
+    top: 60%;
+    
+   }
+
+   #verdeImg{
+          position: absolute;
+            min-width: 90%;
+            height: 650px;
+            background-color:#fff;
+            left: 5%;
+            top: -3%;
+            border-radius: 15%;
+            box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); 
+   }
+   
+   #textoImagemVerde{
+    position: absolute;
+    height: 35%;
+    top: 65%;
+    
+    left: 0%;
+    
+   }
+    
+  
+    #laranjaImg{
+              position: absolute;
+              top: 15%;
+              left: 5%;
+              height: 55%
+
+            }
+    
+    #ultimoTxt{
+      height: 10%;
+      
+      left: 0%;
+      top: 25%;
+    } 
+    #ultomoTxt1 {
+      position: absolute;
+      height: 35px;
+      
+      width: 100%;
+    }
+    .botao2 {
+      position: absolute;
+      top: 110px;
+      left: 40%;
+    }
+   
+
+  
+
+   #logoRodape{
+    position: absolute;
+    top: 9%;
+    left: 6%;
+   }
+
+
+
+
+    
+
+    
+
+    
+
+    
+          h1#artigo01{
+              font-family: 'Anton', sans-serif;
+              font-size: clamp(0.5em, 0.5em + 2vw, 2.25em);
+              font-weight: 200;
+              text-align: center  ;           
+              word-spacing: 10px;;
+             }
+           p {
+            text-align: center;
+            font-family: 'Spartan', sans-serif;
+            font-size: clamp(0.5em, 0.5em + 1vw, 1.25em);
+            font-weight: bold;
+            word-spacing: 10px;
+            }
+          p#cinzaa {
+        
+          color: grey;
+          text-align: left;
+          font-family: 'Spartan', sans-serif;
+          font-size: clamp(0.4em, 0.4em + 0.8vw, 0.9em);
+
+             }
+
+         h2,h3{ 
+            
+          font-family: 'Spartan', sans-serif;
+          font-size: clamp(0.1em, 0.3em + 2.5vw, 2.5em);
+          color:black;
+          font-weight: bold;
+              }
+       p#textoVerde{
+        text-align: left;
+        font-size: clamp(0.5em, 0.5em + 0.5vw, 1em);
+       }   
+       h1#texto04 {
+               position: absolute;
+               top: 18%;
+               text-align: left;
+               font-family: 'Roboto', sans-serif;
+               font-size: clamp(0.5em, 0.8em + 2.8vw, 3.4em);
+               color:black;  
+               font-weight: 530; 
+
+
+           }
+           h1#texto041 {
+           
+            top: 18%;
+            text-align: left;
+            font-family: 'Roboto', sans-serif;
+            font-size: clamp(0.5em, 0.8em + 2.8vw, 3.4em);
+            color:black;  
+            font-weight: 530; 
+
+
+        }
+           p#cinza2{
+              position: absolute;
+              top: 53%;
+              color: grey;
+              text-align: left;
+              font-family: 'Spartan', sans-serif;
+              font-size: clamp(0.5em, 0.65em + 0.8vw, 1em);
+             }
+             h1#ultimo {
+               text-align: center;
+               font-family: 'Roboto', sans-serif;
+                font-size:  clamp(0.5em, 0.65em + 2.5vw, 3em);
+               }
+
+             p#cinza3{
+                 position: absolute;
+                 font-size: clamp(0.25em, 0.5em + 0.3vw, 5em);
+                 color: gray;
+                 left: 6%;
+                 top: 48%;
+               }
+
+              p#cinza4{
+                position: absolute;
+                 font-size: clamp(0.25em, 0.5em + 0.3vw, 5em);
+                 color: gray;
+                 left: 3%;
+                 top: 70%;
+              }
+
+              p#cinza5{
+                 position: absolute;
+                 display: block;
+                 font-size: clamp(0.3em, 0.55em + 0.3vw, 5em);
+                 color: gray;
+                 left: 8%;
+                 top: 30%;
+              }
+              p#cinza6{
+                 position: absolute;
+                 display: block;
+                 font-size: clamp(0.3em, 0.55em + 0.3vw, 5em);
+                 color: gray;
+                 left: 8%;
+                 top: 40%;
+              }
+
+             p#cinza7{
+                 position: absolute;
+                 display: block;
+                 font-size: clamp(0.3em, 0.55em + 0.3vw, 5em);
+                 color: gray;
+                 left: 8%;
+                 top: 50%;
+              }
+              p#cinza8{
+                position: absolute;
+                 display: block;
+                 font-size: clamp(0.3em, 0.55em + 0.4vw, 6em);
+                 color: gray;
+                 left: 8%;
+                 top: 40%
+              }
+
+
+
+
+
+              h3#negrito{
+                position: absolute;
+                 font-size: clamp(0.4em, 0.6em + 1vw, 1em);
+                 color: black;
+                 font-weight: bolder;
+                 left: 8%;
+                 top: 13%;
+              } 
+
+
+
+              #rodape1{
+                height: 260px;
+                background-color: #edf2f7;
+              }
+
+              #rodape2{
+                
+                height: 260px;
+                background-color: #edf2f7;
+              }
+
+              #rodape3{
+                
+                height: 260px;
+                background-color: #edf2f7;
+              }
+              #rodape4{
+                
+                height: 260px;
+                background-color: #edf2f7;
+                }
+
+                .menu ul ul{
+                  position: absolute;
+                  visibility: hidden;
+                }
+
+                .menu ul li:hover ul {
+                  visibility: visible;
+                }
+
+
+
+
+
+
+
+
